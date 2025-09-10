@@ -33,3 +33,22 @@ pip install -r requirements.txt
 
 # Linux/Mac
 source venv/bin/activate
+
+redactx/
+├─ __init__.py
+├─ cli.py
+├─ api.py
+├─ scanner.py
+└─ patterns/
+   ├─ __init__.py
+   ├─ registry.py
+   ├─ email.py
+   ├─ phone_vn.py
+   ├─ cccd_vn.py
+   ├─ credit_card.py
+   └─ ip_url.py
+sample/
+│  └─ data.txt
+tests/
+   └─ test_patterns.py
+

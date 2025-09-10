@@ -1,0 +1,6 @@
+Email: alice.smith@example.com
+SĐT: 0912345678 hoặc +84987654321
+URL: https://example.org/hello
+CCCD: 012345678901
+IP: 192.168.1.123
+Thẻ: 4111111111111111

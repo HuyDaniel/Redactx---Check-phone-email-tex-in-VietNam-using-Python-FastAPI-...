@@ -34,6 +34,8 @@ pip install -r requirements.txt
 # Linux/Mac
 source venv/bin/activate
 
+
+CẤu trúc thư mục:
 redactx/
 ├─ __init__.py
 ├─ cli.py
@@ -51,4 +53,5 @@ sample/
 │  └─ data.txt
 tests/
    └─ test_patterns.py
+
 
